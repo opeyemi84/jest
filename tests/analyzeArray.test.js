@@ -1,4 +1,4 @@
-import { min, max, Average, len } from "./analyzeArray";
+import { min, max, Average, len } from "../app/analyzeArray";
 
 describe("Return values", () => {
   test("Return minimum value", () => {

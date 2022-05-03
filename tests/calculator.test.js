@@ -1,4 +1,4 @@
-import { add, sub, div, mul } from "./calculator";
+import { add, sub, div, mul } from "../app/calculator";
 
 describe("return correct calculation for each operation", () => {
   test("add", () => {
